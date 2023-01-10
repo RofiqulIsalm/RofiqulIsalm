@@ -2,7 +2,8 @@
 <h1 align="center">𝓗𝓮𝔂 👋, 𝓘'𝓶 𝓡𝓪𝓯𝓲𝓺</h1>
 <h3 align="center">𝘐 𝘢𝘮 𝘢𝘯 𝘶𝘱𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳.</h3>
 
-<img align="right" art="fv_png" width="300" src="https://github.com/RofiqulIsalm/RofiqulIsalm/blob/main/25fb2b01e6099c3d1a1c1d136aa9a3a3.gif">
+<img class="gift" align="right" art="fv_png" width="250" src="https://github.com/RofiqulIsalm/RofiqulIsalm/blob/main/25fb2b01e6099c3d1a1c1d136aa9a3a3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rofiqulisalm&label=Profile%20views&color=0e75b6&style=flat" alt="rofiqulisalm" /> </p>
 
 - 🌱 I’m currently learning **C++**
@@ -27,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rofiqulisalm&show_icons=true&locale=en" alt="rofiqulisalm" /></p>
 
 <p>
-  <img align="lift" art="fv_png" width="200" src="https://github.com/RofiqulIsalm/RofiqulIsalm/blob/main/ba13b8fa40c299845b9fb3f0dc983586.gif">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqulisalm&" alt="rofiqulisalm" /></p>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqulisalm&" alt="rofiqulisalm" /></p>
