@@ -27,5 +27,5 @@
 <img align="right" art="fv_png" width="200" src="https://github.com/RofiqulIsalm/RofiqulIsalm/blob/main/pngwing.com.png">
 </p>
 <p>
-<img align="left" art="fv_png" width="200" src="https://github.com/RofiqulIsalm/RofiqulIsalm/blob/main/pngwing.com.png">
+<img align="left" art="fv_png" width="200" src="https://i.gifer.com/57Ib.gif">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqulisalm&" alt="rofiqulisalm" /></p>
