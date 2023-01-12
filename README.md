@@ -27,8 +27,8 @@
 ![Rofiq Islam GitHub stats](https://github-readme-stats.vercel.app/api?username=rofiqulislam&&show_icons=true&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rofiqulislam&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rofiqulisalm&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="rofiqulisalm" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rofiqulisalm&show_icons=true&locale=en&layout=compact" alt="rofiqulisalm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rofiqulisalm&theme=dark&background=000000show_icons=true&locale=en" alt="rofiqulisalm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rofiqulisalm&show_icons=true&locale=en" alt="rofiqulisalm" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqulisalmtheme=dark&background=000000&" alt="rofiqulisalm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqulisalm&theme=dark" alt="rofiqulisalm" /></p>
